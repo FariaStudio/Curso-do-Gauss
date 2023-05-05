@@ -1,0 +1,15 @@
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\bin\Debug\net7.0\NivelFacil.exe
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\bin\Debug\net7.0\NivelFacil.deps.json
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\bin\Debug\net7.0\NivelFacil.runtimeconfig.json
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\bin\Debug\net7.0\NivelFacil.dll
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\bin\Debug\net7.0\NivelFacil.pdb
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\obj\Debug\net7.0\NivelFacil.csproj.AssemblyReference.cache
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\obj\Debug\net7.0\NivelFacil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\obj\Debug\net7.0\NivelFacil.AssemblyInfoInputs.cache
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\obj\Debug\net7.0\NivelFacil.AssemblyInfo.cs
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\obj\Debug\net7.0\NivelFacil.csproj.CoreCompileInputs.cache
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\obj\Debug\net7.0\NivelFacil.dll
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\obj\Debug\net7.0\refint\NivelFacil.dll
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\obj\Debug\net7.0\NivelFacil.pdb
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\obj\Debug\net7.0\NivelFacil.genruntimeconfig.cache
+C:\Users\guifa\Documents\Curso Gauss\C# desafios\NivelFacil\obj\Debug\net7.0\ref\NivelFacil.dll
