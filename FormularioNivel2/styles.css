@@ -1,0 +1,15 @@
+h1 {
+    background-color: yellow;
+    position: a;
+    padding: 15px;
+    border-radius: 15px;
+}
+div {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: yellow;
+    position: absolute;
+    padding: 20px;
+    border-radius: 15px;
+}

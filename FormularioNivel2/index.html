@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Gestão Acadêmica</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>SISTEMA DE GESTÃO ACADÊMICA</h1>
+    <h2>MANUTENÇÃO DE USUÁRIOS DO SISTEMA INTERNO </h2>
+    <h3>Nome:</h3><input type="text" placeholder="Seu login">
+    <br>
+    <h3>Senha:</h3> <input type="password" placeholder="Sua senha">
+    <br>
+    <h3>Status</h3><select name="Status" id="">
+        <option value="inativo">inativo</option>
+        <option value="ativo">ativo</option>
+    </select>
+    <h3>Tipo:</h3> <input type="radio" name="Tipo"> 
+                 <label for="Tipo">Técnico</label>
+                 <input type="radio" name="Tipo"> 
+                 <label for="Tipo">Professor</label>
+                 <input type="radio" name="Tipo">
+                 <label for="Tipo">Aluno</label> 
+                 <br>
+    <h3>Data Criação:</h3> <input type="date">
+    <br>
+    <h3>Perfil:</h3> <input type="radio" name="perfil">
+                   <label for="perfil">Convidado</label>
+                   <input type="radio" name="perfil">
+                   <label for="perfil">Administrador</label>
+                   <br>
+    <h3>Observações:</h3><textarea name="Observações" id="" cols="15" rows="5"></textarea> 
+    <h3>Módulos:</h3><input type="checkbox"> Compras
+                    <input type="checkbox"> Biblioteca
+                    <input type="checkbox"> Academico
+                    <br>
+                    <input type="checkbox"> Documentação 
+                    <input type="checkbox"> Recursos Humanos
+                    <br><br>
+    <button><a href="index2.html">Cadastrar</a></button> <button><a href="index.html">Excluir</a></button>                
+</body>
+</html>
